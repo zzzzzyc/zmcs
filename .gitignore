@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Data files (temporary scan data, don't upload)
+data1.json
+data2.json
+data3.json
+JSON.json
+signfinder_export_*.json
+*.csv
+
+# Keep data.json for sharing (comment out if too large)
+# data.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Local test files
+test_*.py
+temp_*.py
+
